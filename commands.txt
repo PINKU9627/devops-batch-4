@@ -9,3 +9,5 @@ git config --global user.email
 git config --global user.name
 git log --oneline
 git log --oneline --pretty
+git branch <branch>
+git checkput <branch>
