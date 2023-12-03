@@ -7,3 +7,5 @@ git log
 git restore
 git config --global user.email
 git config --global user.name
+git log --oneline
+git log --oneline --pretty
