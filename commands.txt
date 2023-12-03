@@ -11,3 +11,6 @@ git log --oneline
 git log --oneline --pretty
 git branch <branch>
 git checkput <branch>
+git remote remove
+git remote -v
+git remote add origin https://<personal_access_token>@<github-repo-url>
