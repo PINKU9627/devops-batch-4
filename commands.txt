@@ -1,0 +1,9 @@
+git init
+git add
+git rm --cached
+git commit
+git status
+git log
+git restore
+git config --global user.email
+git config --global user.name
