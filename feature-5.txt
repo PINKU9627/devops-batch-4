@@ -1,1 +1,3 @@
 Adding partners feature.
+
+This feature is completed.
