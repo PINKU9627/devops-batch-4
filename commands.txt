@@ -4,4 +4,9 @@ git rm --cached
 git add
 git commit
 git restore
+git log
+git log --oneline
+git log --oneline --pretty
+git config --global user.name ""
+git config --global user.email ""
 
