@@ -4,3 +4,5 @@ echo $(date +'%D - %T')
 echo $PWD
 echo $SHELL
 echo $PPID
+echo $(whoami)
+echo $(free -h)
