@@ -7,3 +7,4 @@ echo $PPID
 echo $(whoami)
 echo $(free -h)
 echo $(ls)
+echo $(uname -r)
